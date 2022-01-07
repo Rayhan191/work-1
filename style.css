@@ -1,0 +1,22 @@
+.eternal {
+    display: flex;
+  }
+  #war {
+    width: 50wv;
+    padding-left: 100px;
+    padding-right: 100px;
+  }
+  .new {
+    font-family: 'Libre Baskerville', serif;
+    margin: auto;
+    padding: 5px;
+    border-left: 3px solid coral;
+  }
+  .care {
+    padding: 10px;
+    font-family: 'EB Garamond', serif;
+    font-size: 20px;
+  }
+  .year {
+    color: 	orange;
+  }
